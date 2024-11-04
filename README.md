@@ -3,10 +3,10 @@
 [![Java CI with Maven](https://github.com/ShkembiAnis/DeCafe/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/ShkembiAnis/DeCafe/actions/workflows/maven.yml)
 
 ## Authors:
-Anis Shkembi< br / >
-Maximilian Nowak< br / >
-Thomas Winter< br / >
-Anas Kambal< br / >
+Anis Shkembi   
+Maximilian Nowak  
+Thomas Winter  
+Anas Kambal  
 
 
 ## How to run the Game
